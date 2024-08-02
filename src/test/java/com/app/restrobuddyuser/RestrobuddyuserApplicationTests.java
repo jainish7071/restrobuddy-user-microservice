@@ -1,4 +1,4 @@
-package com.app.restrobuddy.restrobuddyuser;
+package com.app.restrobuddyuser;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

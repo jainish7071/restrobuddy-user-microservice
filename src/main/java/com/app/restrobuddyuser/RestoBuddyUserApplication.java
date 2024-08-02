@@ -1,13 +1,13 @@
-package com.app.restrobuddy.restrobuddyuser;
+package com.app.restrobuddyuser;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestrobuddyuserApplication {
+public class RestoBuddyUserApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestrobuddyuserApplication.class, args);
+		SpringApplication.run(RestoBuddyUserApplication.class, args);
 	}
 
 }
